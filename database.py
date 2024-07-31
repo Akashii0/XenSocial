@@ -3,7 +3,7 @@ from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker
 # import psycopg2
 # from psycopg2.extras import RealDictCursor
-import time
+# import time
 from config import settings
 
 # SQLALCHEMY_DATABASE_URL = "sqlite:///./sql_app.db"
