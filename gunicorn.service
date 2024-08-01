@@ -1,5 +1,6 @@
 [Unit]
-
+Description=demo fastapi application
+After=network.target
 
 [Service]
 
