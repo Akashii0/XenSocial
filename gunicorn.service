@@ -3,6 +3,7 @@ Description=demo fastapi application
 After=network.target
 
 [Service]
-
+User=xen
+Group=xen
 
 [install]
