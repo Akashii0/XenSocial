@@ -5,5 +5,7 @@ After=network.target
 [Service]
 User=xen
 Group=xen
+WorkingDirectory=/home/xen/app/src/
+Environment="PATH=/home/xen/app/venv/bin"
 
 [install]
