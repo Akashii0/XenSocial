@@ -10,4 +10,4 @@
         "Votes": 2
     },
 
-print("Yooooo")
+print("Yoooooo")
