@@ -8,6 +8,8 @@ git branch -M main    adds a branch
 git remote add origin https://github.com/username/repo_name.git    connects to your repo
 git push -u origin main
 
+git fetch
+
 git checkout
 
 in case of initial commit already created, we have to rebase
